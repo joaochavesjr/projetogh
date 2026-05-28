@@ -50,5 +50,5 @@ if (typeof module !== 'undefined' && module.exports) {
 
 }
 
-consolo.log('Aplicação carregada com sucesso, sem problemas!');
+consolo.log('Aplicação carregada com sucesso!');
 
