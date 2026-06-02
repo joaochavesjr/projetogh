@@ -49,6 +49,6 @@ if (typeof module !== 'undefined' && module.exports) {
     module.exports = { saudacao, calcular };
 
 }
-
+// Adicionei um novo comentario.
 consolo.log('Aplicação carregada com sucesso!');
 
