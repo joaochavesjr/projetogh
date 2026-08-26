@@ -1,4 +1,4 @@
-// Aplicação simples para demonstrar CI/CD
+// Aplicação simples para demonstrar CI/CD - Teste TAG
 
 function saudacao(nome) {
 
